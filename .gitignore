@@ -1,0 +1,6 @@
+CMakeFiles
+.vscode
+*.abi
+cmake_install*
+CMakeCache*
+Makefile
